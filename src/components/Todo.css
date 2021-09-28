@@ -1,0 +1,11 @@
+.todo {
+    background-color: lightpink;
+    width: 100%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+ 
+}
+.strike {
+    text-decoration: line-through;
+}
