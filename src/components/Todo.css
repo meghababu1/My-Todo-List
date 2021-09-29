@@ -9,3 +9,6 @@
 .strike {
     text-decoration: line-through;
 }
+.no-strike {
+    text-decoration: none;
+}
